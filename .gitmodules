@@ -1,0 +1,10 @@
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+	branch = master
+[submodule "cppunit"]
+	path = cppunit
+	url = git://anongit.freedesktop.org/git/libreoffice/cppunit
+[submodule "softhsm"]
+	path = softhsm
+	url = https://github.com/opendnssec/SoftHSMv2.git
